@@ -9,6 +9,17 @@
     font-weight: 400;
 }
 
+body {
+    color: #727272;
+}
+h1,h2,h4,h5 {
+    color: black;
+}
+
+h3 {
+    color: #fff;
+}
+
 .container_section_first {
     background: #EEEFF1;
     width: 100%;
@@ -39,7 +50,7 @@ nav>ul>li {
 }
 
 .container_section_first > section {
-    width: 60vh;
+    width: 70vh;
     margin-left: 22%;
 
 }
@@ -128,6 +139,7 @@ iframe {
     background: #34547A;
     width: 100%;
     text-align: center;
+    color: #fff;
 }
 
 .last_section > div {
@@ -135,6 +147,7 @@ iframe {
     text-align: center;
     padding: 5vh 0;
 }
+
 
 
 
