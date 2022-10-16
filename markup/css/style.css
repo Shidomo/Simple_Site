@@ -112,6 +112,7 @@ li > div {
     width: 100%;
     height: 100vh;
     text-align: center;
+    background: #EEEFF1;
 }
 
 .container_section_fourth > header {
@@ -138,25 +139,7 @@ iframe {
 .last_section {
     background: #34547A;
     width: 100%;
-    text-align: center;
+/*     text-align: center; */
     color: #fff;
+    padding: 5vh 0 5vh 22%;
 }
-
-.last_section > div {
-    margin: 0 auto;
-    text-align: center;
-    padding: 5vh 0;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
