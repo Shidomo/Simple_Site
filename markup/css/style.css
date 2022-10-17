@@ -49,12 +49,12 @@ a:hover {
 
 nav>ul>li {
     margin-right: 5%;
-    float: left;
+    display: inline-block;
     
 }
 
 .container_section_first > section {
-    width: 70vh;
+    width: 30%;
     margin-left: 22%;
 
 }
@@ -126,7 +126,7 @@ li > div {
     background: #EEEFF1;
 }
 
-.container_section_fourth > header {
+.container_section_fourth > h2 {
     padding-top: 5vh;
 }
 
