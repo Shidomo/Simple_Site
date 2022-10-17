@@ -39,12 +39,16 @@ li > a {
     font-weight: 500;
 }
 
-a:hover {
+nav a {
+    transition: all 0.5s ease-in-out;
+}
+
+nav a:hover {
     cursor: pointer;
     font-weight: 600;
     font-size: 1.2em;
     transform: scale(10);
-    transition: all 0.3s ease;
+    color: #34547A;
 }
 
 nav>ul>li {
@@ -81,12 +85,6 @@ h2 {
     margin-top: 80px;
     border-radius: 5px;
     font-weight: 400;
-}
-
-.butn:hover {
-    background: #2d4d77;
-    transform: scale(1);
-    transition: all 0.3s ease-in-out;
 }
 
 .container_section_second {
